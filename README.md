@@ -1,5 +1,5 @@
 # 💫 About Me:
-Persuing M.tech in AI from Netaji Subhas University of Technology.<br>Ex - Software Engineer at FIS Global (2yrs)<br>Machine Learning enthusiast. 
+Software Engineer II at HclSoftware | Ex- FIS Global <br>M.tech in AI from Netaji Subhas University of Technology.<br>Machine Learning enthusiast. 
 
 
 # 💻 Tech Stack:
@@ -10,4 +10,3 @@ Persuing M.tech in AI from Netaji Subhas University of Technology.<br>Ex - Softw
 ---
 [![](https://visitcount.itsvg.in/api?id=preyanshu-bisht&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
